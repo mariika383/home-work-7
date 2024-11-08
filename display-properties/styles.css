@@ -1,0 +1,17 @@
+.block {
+  display: block;
+  background-color: lightcoral;
+  margin: 10px 0;
+}
+
+.inline {
+  display: inline;
+  background-color: lightgreen;
+  padding: 5px;
+}
+
+.flex-container {
+  display: flex;
+  gap: 10px;
+  background-color: lightblue;
+}

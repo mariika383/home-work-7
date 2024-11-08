@@ -1,0 +1,10 @@
+.block {
+  background-color: lightblue;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.inline {
+  color: red;
+  font-weight: bold;
+}
